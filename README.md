@@ -1,4 +1,13 @@
-# Modern and Minimal Electron + React Starter Kit
+# Credit 
+
+Credit to https://github.com/keithweaver for giving a clear and well-thought out tutorial on how to set this boilerplate up.
+
+All code in this boilerplate is based off of his tutorial. https://www.youtube.com/watch?v=AJw4KpNdWPM
+
+Credit to https://github.com/electron-userland/electron-json-storage for providing an easy way to perform local storage.
+
+
+# Modern and Minimal Electron + React Starter Kit + IPC Configured
 _Electron, React, Webpack -- Modern and up-to-date, with a handful of quality of life features included_
 
 I made this starter kit as most boilerplates were either out-of-date, heavy handed, or enforced a structure on me that I just didnt like.
